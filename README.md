@@ -1,1 +1,1 @@
-# -MERN-Full-Stack-VIT_React-Task1
+# word-counter-app
